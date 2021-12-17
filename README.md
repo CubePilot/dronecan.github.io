@@ -35,7 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Example of header links
 1. create a folder named 'examples' under root directory
 2. open `_includes/navbar.html`, add the folder name to href tag:
-`<li><a href="../examples">Examples</a></li>`
+`<li><a href="{{site.baseurl}}/examples">Examples</a></li>`
 3. create index.md file in that folder
 4. add the layout code to the top of the md file:
 `---`
