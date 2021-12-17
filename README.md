@@ -42,7 +42,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 `layout: default`
 `---`
 
-More information of develop website with Jekyll can be found here:
+More information of developing website with Jekyll can be found here:
 https://jekyllrb.com/docs/
 
 
