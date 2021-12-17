@@ -50,3 +50,7 @@ https://jekyllrb.com/docs/
 Due to the 10 builds per hour [Usage limits](https://jekyllrb.com/docs/pages/) of GitHub Pages, you may need to build and test the project locally: 
 
 [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+
+When testing on local computer, please comment the following line in `_config.yml` file:
+
+`baseurl: /dronecan.github.io`
